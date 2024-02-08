@@ -1,0 +1,10 @@
+{
+  "name": "testslideout",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Andrés González",
+  "license": "MIT",
+  "dependencies": {
+    "slideout": "^1.0.1"
+  }
+}
